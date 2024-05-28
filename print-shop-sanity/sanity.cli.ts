@@ -5,4 +5,4 @@ export default defineCliConfig({
     projectId: '5p5r6jrg',
     dataset: 'production'
   }
-})
+}) 
